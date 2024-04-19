@@ -2,7 +2,7 @@
 -Fecha de publicación: 19-04-2024
 -Hora de publicación: 9:10 AM
 -Versión de su código: 20
--Autores:Ing(c): Jorge Andres Valderrama Baron
+        -Autores:Ing(c): SantiagoMelo
 -Nombre del lenguaje : ECMASCRIPT
 -Versión del lenguaje utilizado: 6.0
 -Universidad Tecnológica de Pereira
